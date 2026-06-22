@@ -41,7 +41,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://i.imgur.com/7Otv0IH.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[Watch Walkthrough](https://drive.google.com/file/d/12OYoYZJAKEL6VQXZzVKnCldKSXtsIuyL/view?usp=sharing)
 
 GIF created with [Kap](https://getkap.co/) for macOS
 
